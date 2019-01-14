@@ -23,3 +23,5 @@ Customers
 Target Corporation (NYSE TGT) is an upscale discount retailer that provides high-quality, on-trend merchandise at attractive prices in clean, spacious and guest-friendly stores.
 
 1. https://corporate.target.com/press/corporate
+
+On this website, top right corner, you can find the 2017 annual report.
